@@ -10,7 +10,7 @@ env.roledefs = {
 	'build':['localhost']
 }
 env.user = 'richard'
-env.password = 'tapiola74'
+env.password = '******'
 #env.key_filename = '~/vmubuntu.key'
 #env.parallel=True
 
